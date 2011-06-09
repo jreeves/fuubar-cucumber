@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "fuubar-cucumber.gemspec",
-    "lib/fuubar-cucumber.rb",
+    "lib/cucumber/formatter/fuubar.rb",
     "spec/fuubar-cucumber_spec.rb",
     "spec/spec_helper.rb"
   ]
